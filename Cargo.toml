@@ -1,0 +1,12 @@
+[workspace]
+
+members = [
+    "shadl",
+    "mnist_trainer",
+    "mnist_ui",
+    "mnist_wasm"
+]
+
+# RUSTFLAGS="-C target-cpu=native"
+#[profile.release]
+#lto = "fat"

@@ -1,0 +1,10 @@
+/target
+/datasets
+/out
+/out-saved
+/proptest-regressions
+.cargo
+.vscode
+/mnist_wasm/pkg
+
+training-report.txt
